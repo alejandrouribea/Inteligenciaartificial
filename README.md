@@ -6,3 +6,4 @@ integrantes:
 - Sebastián Salazar ramos | 1152227027 | Ingeniería mecánica
 
 enlace del video entrega 2: [https://www.youtube.com/watch?v=988YQnANdP0 ](https://www.youtube.com/watch?v=988YQnANdP0)
+enlace del video entrega final: https://www.youtube.com/watch?v=6vQKe_5g6-8
